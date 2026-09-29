@@ -1,0 +1,17 @@
+cd /d "%USERPROFILE%"
+composer create-project laravel/laravel laravel-lab "12.*"
+cd laravel-lab
+php artisan --version
+
+
+C:\Users\MUSTAFA\Desktop\WEB\Laravel>composer create-project laravel/laravel Laravel_labs
+.
+.
+.
+C:\Users\MUSTAFA\Desktop\WEB\Laravel Projects>cd Laravel_labs
+
+C:\Users\MUSTAFA\Desktop\WEB\Laravel Projects\Laravel_labs>php artisan serve
+
+   INFO  Server running on [http://127.0.0.1:8000].
+
+  Press Ctrl+C to stop the server
